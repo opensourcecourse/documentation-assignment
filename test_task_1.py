@@ -1,10 +1,8 @@
-"""
-Tests for task 2.
-"""
+
 import numpy as np
 import pytest
 
-from task_2 import Thingy, func
+from task_1 import Thingy, func
 
 
 class TestFunc:

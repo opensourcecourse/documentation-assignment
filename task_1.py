@@ -1,6 +1,4 @@
-"""
-Task 2, writing docstrings.
-"""
+
 from collections import defaultdict
 
 import numpy as np
