@@ -4,8 +4,8 @@ This assignment is designed to help you refine your code documentation skills.
 It will look at various levels of documentation, including comments, docstrings
 and readmes.
 
-As with the other assignments, once you are finished with the assignment submit 
-a PR and ping the instructors for feedback.
+For this assignment, submit one PR for Task 1 and a separate PR for Task 2.
+Some of your peers will be providing feedback for your readme in a future assignment. 
 
 ## Task 1: Code Comments and Docstrings (15 points)
 
